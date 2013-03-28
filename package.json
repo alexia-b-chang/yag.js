@@ -1,0 +1,10 @@
+{
+  "name"          : "yagnus",
+  "description"   : "JavaScript stats library built using only parallel distributed streaming algorithms. The library calculates most commonly used univariate, multivariate and discrete statistics. It can be used alone in a webpage, or server-side in nodejs (or both since mss can be merged), or within a big-data no-sql engines such as hadoop, mongodb or couchdb.",
+  "homepage"      : "http://www.yagn.us",
+  "keywords"      : ["stats", "statistics", "analytics", "univariate", "multivariate", "discrete", "mean", "variance", "standard deviation", "unbiased", "constant time", "constant space", "fixed space", "efficient", "fast", "awesome", "cool", "skewness", "kurtosis", "contingency table", "multidimensional", "counter", "Pearson", "correlation", "covariance", "covariance matrix", "aggregation", "map","reduce", "node", "mongodb", "javascript", "server", "client", "browser", "big data", "big-data", "parallel", "streaming", "massive", "humoungous", "functional", "median", "min", "minimum", "max", "maximum", "quantile", "order statistics","order stats", "minimum sufficient statistics", "mss", "average", "stable", "sampling", "sampler", "reservoir sampling"],
+  "author"        : "Hc Busy<hc.busy@yagn.us>",
+  "repository"    : {"type": "svn", "url": "https://yagnus.googlecode.com/svn/trunk/"},
+  "main"          : "yagnus.js",
+  "version"       : "0.0.11"
+}

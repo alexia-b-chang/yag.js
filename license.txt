@@ -1,0 +1,29 @@
+Yagn.us License, Copyright and Disclaimers v0.3
+
+This document is about computer files that Yagn.us organization makes available to the public.
+
+Yagn.us License:
+* By downloading Yagn.us files you have read and understood and agree to abide by this entire license, and therefore, you are hereby granted rights to copy, modify and use Yagn.us files except:
+* A copy of this license must accompany each copy o fYagn.us files or binary object code produced from them.
+* You cannot use name Yagn.us or the names of its contributors in association with Yagn.us to promote your product or cause.
+* You must make the fact of Yagn.us file usage public knowledge by stating in the natural language(s) used by the software or system, on a public forum, uniquely locatable by an URL, indexed by major search systems, that your software or system uses Yagn.us files and that those files are being used under this license and the text of this license.
+* You must report bugs as soon as they are discovered to Yagn.us via email and at a publicly accessible URL indexed by major search systems.
+* Academic use of Yagn.us files must cite Yagn.us as the creator and maintainer of these files.
+
+Free Yagn.us Open License:
+* By downloading Free Yagn.us Open files you agree that you have read and understood and agree to abide by both the Yagn.us License and this entire licnse, and therefore, they are hereby granted rights to copy, modify and use Free Yagn.us Open files except:
+* You cannot use, compile, package, or transmit with or as part any content or system for commercial purpose.
+* These files cannot be used in efforts towards discovery, improvement, construction, storage or deployment of weapons or in support thereof. Free Yagn.us Open files is absolutely against war.
+* These files cannot be used in efforts towards discovery, invasion, violation or corruption of personally, commercially or nationally secret information and properties, or in support thereof, without regard to intentions and goals of such efforts, and without regards to the reason for the privacy or secrecy. Free Yagn.us Open files is absolutely against spying or hacking.
+
+Under both license files are provided "as is" without any stated or implied warranties of efficacy or lack thereof towards any end. Yagn.us or any person associated with this entity are not liable for any effects or side-effects caused by the use of Yagn.us and Free Yagn.us Open files.
+
+Use of files, not exclusively, include: Downloading files, unarchiving a file containing this notice, viewing, modifying, compiling, interpreting, executing, linking with, invoking subroutines, encrypting, decrypting, summarizing, pruning, optimizing, refactoring, documenting, explaining, deriving entropy from, deriving linguistic or any other pattern from, or otherwise transforming, extractions, and citation including quoting, linking or mentioning Yagn.us.
+Weapons are waves, particles, substances, devices, organisms and procedures whose primary reason, in design or in practice, for being known or designed or created is to be used to destroy, kill, injure, maim, disable, damage, mutate, debilitate or otherwise undesirably alter human, human conditions and human creations.
+Information private to an entity are those that may or may not be known to the entity itself but are unknown to other entities without the other entity's effort.
+Information secret to an entity are those that the entity either declares to be secret or makes effort to keep unknown or uncertain to other entities.
+You are an entity choosing and downloading the Yagn.us files.
+
+Copyright (c) 2013 and forward, Yagn.us. All rights reserved.
+a7f52d1c38a1442dc4db7f34df787364
+256dee505f4e8cf1afa3c262c072cd0b84af8f72583ad0df00436f8fe40d86b6712980c92d97373c2fd8efa46e94440be5f99f7492f962a0fbe259ccc142e674
