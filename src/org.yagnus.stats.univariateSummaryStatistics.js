@@ -79,27 +79,10 @@
 			this.skip = arguments[1];
 		}
 	}
-
+	org.yagnus.stats.UniStats.prototype = new org.yagnus.stats.UnivariateBase();
+	org.yagnus.stats.UniStats.prototype.checkNumber=function(n){return org.yagnus.stats.checkNumber(n) && !this.skip(n); }
 
 	org.yagnus.stats.UniStats.prototype.checkNumber=function(n){return org.yagnus.stats.checkNumber(n) && !this.skip(n); }
-	org.yagnus.stats.UniStats.prototype.inc=function(){
-			var ret = 0;
-			var nargs = [];
-			for(var i=0;i<arguments.length;++i){
-				if(arguments[i] instanceof Object){
-					//Objects, Arrays, Functions etc.
-					if(arguments[i] instanceof Array) try{
-						var tmparr=org.yagnus.utils.flatten(arguments[i]);
-						for(var ti=0;ti<tmparr.length;++ti)this._inc(tmparr[ti]);}catch(e){++this.bad;
-					}else if(arguments[i] instanceof org.yagnus.stats.UniStats) try{
-						this._update(arguments[i]);}catch(e){++this.bad;
-					}else try{ //without checking type
-						this._update(org.yagnus.utils.extend(org.yagnus.stats.initUnivariateSummaryStatistics(),arguments[i]));}catch(e){++this.bad;
-					}
-				}else//number, string, or boolean
-					this._inc(arguments[i]);
-			}
-		}
 		org.yagnus.stats.UniStats.prototype._inc=function(x){
 			try{
 				if(typeof(x)=="string")x=parseFloat(x);
@@ -144,10 +127,6 @@
 			if(this.checkNumber(other.bad))this.bad+=other.bad;
 		}
 
-		org.yagnus.stats.UniStats.prototype.getMss=function(){
-			return org.yagnus.utils.extend(new Object(),this);
-		}
-
 		org.yagnus.stats.UniStats.prototype.calc=function(){
 			this.sum=this.s;
 			this.count=this.c;
@@ -188,10 +167,6 @@
 			delete this.c; delete this.s; delete this.ss; delete this.sss; delete this.ssss; delete this.min; delete this.max; delete this.inc; delete this._inc; delete this._update; delete this.calc; delete this.update; delete this.checkNumber; delete this.skip; delete this.mmind; delete this.mmbuffer;
 			return org.yagnus.utils.extend(new Object(),this);
 		}
-
-	org.yagnus.stats.UniStats.prototype.copy=function(){
-		return org.yagnus.utils.extend(new Object(),this);
-   }
 
 	org.yagnus.stats.initUnivariateSummaryStatistics = function (){
 		var ar=null;

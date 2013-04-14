@@ -25,3 +25,36 @@
 		}
 		return ret;
 	}
+
+
+	org.yagnus.utils.equalsIgnoreMember=function(a,b,ignoreFromA, ignoreFromB){
+
+		if(typeof(a) != typeof(b))return false; //duh
+		if(a==null && b==null) return true;
+
+		//array or object comparison
+		if( a instanceof Array || a instanceof Object){
+			if(typeof(ignoreFromA)=='undefined' || ignoreFromA==null) ignoreFromA={};
+			if(typeof(ignoreFromB)=='undefined' || ignoreFromB==null) ignoreFromB={};
+			//compare two objects
+			var seen={};
+			for(x in a){
+				if(!(x in ignoreFromA) && a.hasOwnProperty(x)){
+					 if(!b.hasOwnProperty(x) || 
+					    !org.yagnus.utils.equalsIgnoreMember(a[x],b[x],ignoreFromA, ignoreFromB))
+							return false;
+					 seen[x]=true;
+				}
+			}
+			for(x in b){
+				if(!(x in ignoreFromB) && !(x in seen) && b.hasOwnProperty(x)){
+					 if(!a.hasOwnProperty(x) || 
+					    !org.yagnus.utils.equalsIgnoreMember(a[x],b[x],ignoreFromA,ignoreFromB))
+							return false;
+				}
+			}
+			return true;
+		}
+
+		return a===b;
+	}
