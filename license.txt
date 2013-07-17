@@ -1,29 +1,40 @@
-Yagn.us License, Copyright and Disclaimers v0.3
+Yagnus Licenses, Copyrights and Disclaimers v0.4
 
-This document is about computer files that Yagn.us organization makes available to the public.
 
-Yagn.us License:
-* By downloading Yagn.us files you have read and understood and agree to abide by this entire license, and therefore, you are hereby granted rights to copy, modify and use Yagn.us files except:
-* A copy of this license must accompany each copy o fYagn.us files or binary object code produced from them.
-* You cannot use name Yagn.us or the names of its contributors in association with Yagn.us to promote your product or cause.
-* You must make the fact of Yagn.us file usage public knowledge by stating in the natural language(s) used by the software or system, on a public forum, uniquely locatable by an URL, indexed by major search systems, that your software or system uses Yagn.us files and that those files are being used under this license and the text of this license.
-* You must report bugs as soon as they are discovered to Yagn.us via email and at a publicly accessible URL indexed by major search systems.
-* Academic use of Yagn.us files must cite Yagn.us as the creator and maintainer of these files.
+This document is about computer files that Yagnus organization makes available to the public.  The files are provided by the Yagnus website and third party software and data repositories including, but not exclusively, http://www.yagn.us/, google code, github, and sourceforge.
 
-Free Yagn.us Open License:
-* By downloading Free Yagn.us Open files you agree that you have read and understood and agree to abide by both the Yagn.us License and this entire licnse, and therefore, they are hereby granted rights to copy, modify and use Free Yagn.us Open files except:
-* You cannot use, compile, package, or transmit with or as part any content or system for commercial purpose.
-* These files cannot be used in efforts towards discovery, improvement, construction, storage or deployment of weapons or in support thereof. Free Yagn.us Open files is absolutely against war.
-* These files cannot be used in efforts towards discovery, invasion, violation or corruption of personally, commercially or nationally secret information and properties, or in support thereof, without regard to intentions and goals of such efforts, and without regards to the reason for the privacy or secrecy. Free Yagn.us Open files is absolutely against spying or hacking.
 
-Under both license files are provided "as is" without any stated or implied warranties of efficacy or lack thereof towards any end. Yagn.us or any person associated with this entity are not liable for any effects or side-effects caused by the use of Yagn.us and Free Yagn.us Open files.
+Yagnus License:
+ * Entities downloading Yagnus files agree that they have read and understood and agree to abide by this entire document, and thereafter they are granted rights to use Yagnus files under following conditions.
+ * Name: Entities using Yagnus files must have a name or names its users, creators, contributors and other interested parties all use to refer to it.
+ * Acknowledgment: Entities using Yagnus files must make the fact of its agreement to Yagnus license known to all of its current and future users.
+ * Replication: Redistribution of unmodified Yagnus files must include a copy of of this entire document in plain text.
+ * Replication With Mutation: Distribution of modified Yagnus files must include the unmodified Yagnus License file and a pointer to an publicly accessible URL containing a diff which when applied to original Yagnus files produces the distributed files.
+ * Fame: Entities using Yagnus files must make the fact of Yagnus file usage public knowledge by stating in the natural language(s) used by the software or system, on a public forum, uniquely referenced by an URL, indexed by major public search systems, that it uses the Yagnus system.
+ * Fortune: Entities using Yagnus files must not use it for commercial purpose without further written agreement.
+ * Peace: Yagnus Files must not be used in efforts towards discovery, improvement, construction, storage or deployment of weapons or in support thereof. Yagnus is absolutely against war.
+ * Privacy: Yagnus Files must not be used in efforts towards discovery, invasion, violation or corruption of personally, commercially or nationally secret information and properties, or in support thereof, without regard to intentions and goals of such efforts, and without regards to the reason for the privacy or secrecy. Yagnus is absolutely against spying and hacking.
+ * Contribution: Entities using Yagnus must report bugs or submit bug fixes as soon as they are discovered to Yagnus.
+ * Immutability: This license and its relation to the Yagnus system and Yagnus files cannot be altered by any person's signature.
+ * Ownership: By contributing to Yagnus system, it is agreed that Yagnus receives, exclusively, world-wide, any and all rights to license, copy, use, transmit, sell, offer for sale, original and transformations of the contribution.
+ * No Confidence: Files are provided "as is" without any warranties, expressed or implied, of any efficacy towards any end or means through any process or duration. Yagnus, its contributors or any person or entity associated with the Yagnus organization are not liable for any effects or side-effects, or the lack thereof, caused by the use of Yagnus files and properties.
+ * Pride: By agreeing to Yagnus License you support the Yagnus License.
+ * Promotion: Entities using Yagnus files may not use the name Yagnus to promote their systems or effort without additional written agreement.
+Use: Use of files, not exclusively, include: Downloading files, storing the files, unarchiving a file containing this notice, compiling, interpreting, executing, linking with, invoking subroutines, encrypting, decrypting, summarizing, pruning, optimizing, re-factoring, documenting, explaining, deriving entropy from, deriving linguistic or any other pattern from, or otherwise transforming, extractions, and citation including quoting, linking, selling, licensing or mentioning Yagnus.
+Weapons: Weapons are waves, particles, substances, devices, organisms and procedures whose primary reason, in design or in practice, for being known or designed or created is to be used to destroy, kill, injure, maim, disable, damage, mutate, debilitate or otherwise undesirably alter human, human conditions and human creations.
+Private: Information private to an entity are those that may or may not be known to the entity itself but are unknown to others without additional effort.
+Secret: Information secret to an entity are those that the entity either declares to be secret or makes significant effort to keep unknown or uncertain to others.
 
-Use of files, not exclusively, include: Downloading files, unarchiving a file containing this notice, viewing, modifying, compiling, interpreting, executing, linking with, invoking subroutines, encrypting, decrypting, summarizing, pruning, optimizing, refactoring, documenting, explaining, deriving entropy from, deriving linguistic or any other pattern from, or otherwise transforming, extractions, and citation including quoting, linking or mentioning Yagn.us.
-Weapons are waves, particles, substances, devices, organisms and procedures whose primary reason, in design or in practice, for being known or designed or created is to be used to destroy, kill, injure, maim, disable, damage, mutate, debilitate or otherwise undesirably alter human, human conditions and human creations.
-Information private to an entity are those that may or may not be known to the entity itself but are unknown to other entities without the other entity's effort.
-Information secret to an entity are those that the entity either declares to be secret or makes effort to keep unknown or uncertain to other entities.
-You are an entity choosing and downloading the Yagn.us files.
 
-Copyright (c) 2013 and forward, Yagn.us. All rights reserved.
-a7f52d1c38a1442dc4db7f34df787364
-256dee505f4e8cf1afa3c262c072cd0b84af8f72583ad0df00436f8fe40d86b6712980c92d97373c2fd8efa46e94440be5f99f7492f962a0fbe259ccc142e674
+Free Yagnus Open License:
+The Free Yagnus Open License is the Yagnus License without any: Contribution, Replication With Mutation, Ownership, Pride, Peace, Privacy, Fame or Fortune.
+
+
+Copyright(c) this licenses, copyrights and disclaimers file is released under the Free Yagnus Open License v0.4, 2013 and onward
+c47a0f2b879f3fcc32191ef1abce372748b0f750732b145c6bb23f06163743a6733715f8c153de513d2efc35ce89cac4092c5fbd1b3f614a3cd9c54079334aeb
+c49eb337d5909d59ac8160c22621472d6a6f9db32954229fd4687412670cb883b0097026a33285f307e9b75934400468cb519417fe97e1e03788743daf77af05
+64f85472dede9b01e85887d4523b977fef79d1bf9930d8f76e1753471717e7a5c6980088d5d65e69df92da3e745a0b007e471167030b12e45ae0910746007019
+1354188d54d1f2bcbd18c4f76c8b75e68fbf55c4f0b6067f07a16990ac857ed962a55ffc49461e0804b0f09d0ee392c8e892a22ca8bab84f2fc3370d72d9e04d
+5be5ececbd2d084dd217b438804979329ccd9be344b27fa934372d8fdc2f1b316ff0171b513329da97349e2c9f433ea5fff68f569bd840ec3197961c82e7f0c4
+1024ba8c1cf298da5116cd5285d9690740dfa9166478124b163d84035cbee12b2234a24c37b3108df9d4469d6890ebaaf86319586b29a3ba64e7c357ffded042
+764b3023cd6ce6224e172feb64a084809757072b5af351150d17eb5712a2cd168d9ee918936ce325fd288c9f2a312e835e2098361f1748a7d9545ce66f119afa
